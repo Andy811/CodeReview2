@@ -17,10 +17,10 @@ public class Implement implements MyInterface {
         defMethod();
     }
 
-    public void overloadMethid(){
+    public void overloadMethod(){
         System.out.println("this is method one");
     }
-    public void overloadMethid(String str){
+    public void overloadMethod(String str){
         System.out.println("this is method two");
     }
 
